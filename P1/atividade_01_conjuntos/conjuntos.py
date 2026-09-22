@@ -1,4 +1,4 @@
-```python
+# ==============================================
 nome = "João Pedro De Rodrigues Alves"
 matricula = "2312130223"
 disciplina = "Estruturas Matemáticas para Computação"
@@ -259,4 +259,3 @@ else:
 print("\n==============================================")
 print("Programa finalizado.")
 print("==============================================")
-```
