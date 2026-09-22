@@ -44,9 +44,11 @@ O programa mostra a divisão inteira, o resto, o passo a passo do Algoritmo de E
 ## Organização
 
 ```text
+```text
 P1
 ├── atividade_01_conjuntos
-│   └── conjuntos.py
+│   ├── conjuntos.py
+│   └── documento_atividade_01.pdf
 └── atividade_02_divisibilidade
-    └── divisibilidade.py
-```
+    ├── divisibilidade.py
+    └── documento_atividade_02.pdf
