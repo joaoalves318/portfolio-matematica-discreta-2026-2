@@ -67,15 +67,6 @@ O programa verifica se dois números são congruentes em relação a um módulo 
 - [teorema_chines.py](P2/atividade_01_congruencia/teorema_chines.py)
 - [Documento explicativo](P2/atividade_01_congruencia/documento_atividade_01.pdf)
 
-### Atividade 2 - Criptografia RSA
-
-O programa implementa uma versão simplificada da criptografia RSA. São utilizados números primos, função totiente de Euler, inverso multiplicativo e exponenciação modular para construir as chaves pública e privada, criptografar e decifrar números inteiros.
-
-Também demonstra a aplicação dos Teoremas de Euler e Fermat.
-
-**Arquivos:**
-- [rsa.py](P2/atividade_02_rsa/rsa.py)
-- [Documento explicativo](P2/atividade_02_rsa/documento_atividade_02.pdf)
 
 ### Atividade 2 - Criptografia RSA
 
