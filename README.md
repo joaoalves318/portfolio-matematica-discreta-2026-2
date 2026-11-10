@@ -55,28 +55,38 @@ P1
 
 ```
 
-# Parte 2 - Atividades da P2
+
+## Parte 2 - P2
 
 ### Atividade 1 - Congruência Modular
 
 O programa verifica se dois números são congruentes em relação a um módulo informado pelo usuário. Também verifica se o módulo é positivo.
 
-**Arquivo:** [congruencia.py](P2/atividade_01_congruencia/congruencia.py)
+**Arquivos:**
+- [congruencia.py](P2/atividade_01_congruencia/congruencia.py)
+- [teorema_chines.py](P2/atividade_01_congruencia/teorema_chines.py)
+- [Documento explicativo](P2/atividade_01_congruencia/documento_atividade_01.pdf)
 
-### Atividade 1 - Teorema Chinês do Resto
+### Atividade 2 - Criptografia RSA
 
-O programa resolve sistemas com três ou quatro congruências utilizando o Teorema Chinês do Resto. Verifica se os módulos são positivos e dois a dois coprimos, calcula a solução particular e apresenta a solução geral.
+O programa implementa uma versão simplificada da criptografia RSA. São utilizados números primos, função totiente de Euler, inverso multiplicativo e exponenciação modular para construir as chaves pública e privada, criptografar e decifrar números inteiros.
 
-**Arquivo:** [teorema_chines.py](P2/atividade_01_congruencia/teorema_chines.py)
+Também demonstra a aplicação dos Teoremas de Euler e Fermat.
 
-**Documentação:** [documento_atividade_01.pdf](P2/atividade_01_congruencia/documento_atividade_01.pdf)
+**Arquivos:**
+- [rsa.py](P2/atividade_02_rsa/rsa.py)
+- [Documento explicativo](P2/atividade_02_rsa/documento_atividade_02.pdf)
 
 ### Organização da P2
 
 ```text
 P2
-└── atividade_01_congruencia
-    ├── congruencia.py
-    ├── teorema_chines.py
-    └── documento_atividade_01.pdf
+├── atividade_01_congruencia
+│   ├── congruencia.py
+│   ├── teorema_chines.py
+│   └── documento_atividade_01.pdf
+│
+└── atividade_02_rsa
+    ├── rsa.py
+    └── documento_atividade_02.pdf
 ```
