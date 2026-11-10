@@ -52,3 +52,31 @@ P1
 └── atividade_02_divisibilidade
     ├── divisibilidade.py
     └── documento_atividade_02.pdf
+
+```
+
+# Parte 2 - Atividades da P2
+
+### Atividade 1 - Congruência Modular
+
+O programa verifica se dois números são congruentes em relação a um módulo informado pelo usuário. Também verifica se o módulo é positivo.
+
+**Arquivo:** [congruencia.py](P2/atividade_01_congruencia/congruencia.py)
+
+### Atividade 1 - Teorema Chinês do Resto
+
+O programa resolve sistemas com três ou quatro congruências utilizando o Teorema Chinês do Resto. Verifica se os módulos são positivos e dois a dois coprimos, calcula a solução particular e apresenta a solução geral.
+
+**Arquivo:** [teorema_chines.py](P2/atividade_01_congruencia/teorema_chines.py)
+
+**Documentação:** [documento_atividade_01.pdf](P2/atividade_01_congruencia/documento_atividade_01.pdf)
+
+### Organização da P2
+
+```text
+P2
+└── atividade_01_congruencia
+    ├── congruencia.py
+    ├── teorema_chines.py
+    └── documento_atividade_01.pdf
+```
