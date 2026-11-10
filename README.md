@@ -43,7 +43,7 @@ O programa mostra a divisão inteira, o resto, o passo a passo do Algoritmo de E
 
 ## Organização
 
-```text
+
 ```text
 P1
 ├── atividade_01_conjuntos
@@ -76,6 +76,16 @@ Também demonstra a aplicação dos Teoremas de Euler e Fermat.
 **Arquivos:**
 - [rsa.py](P2/atividade_02_rsa/rsa.py)
 - [Documento explicativo](P2/atividade_02_rsa/documento_atividade_02.pdf)
+
+### Atividade 2 - Criptografia RSA
+
+O programa implementa uma versão simplificada da criptografia RSA. Utiliza números primos, função totiente de Euler, inverso multiplicativo e exponenciação modular para construir as chaves pública e privada, criptografar e decifrar números inteiros.
+
+Também demonstra a aplicação dos Teoremas de Euler e Fermat.
+
+**Arquivo:** [rsa.py](P2/atividade_02_rsa/rsa.py)
+
+**Documentação:** [documento_atividade_02.pdf](P2/atividade_02_rsa/documento_atividade_02.pdf)
 
 ### Organização da P2
 
